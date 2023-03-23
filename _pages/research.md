@@ -39,13 +39,13 @@ Presentation give at Political Conference available *[here](https://github.com/I
 
 Networks among legislators shape politics and policymaking within legislative institutions. In past work on legislative networks, the ties between legislators have been defined on those who serve in the same legislature or chamber. Online information networks, which have been found to play important roles in legislative communication at the national level, are not bounded by individual legislative bodies.  We collect original data for over four thousand U.S. state legislators and study patterns of connection among them on Twitter.  We look at three types of Twitter networks---follower, retweets, and mentions.  We describe these networks and estimate the relationships between ties and salient attributes of legislators. We find that networks are organized largely along geographic and partisan lines and that identity attributes---namely gender and race---exhibit strong associations with the formation of ties.     
   
-</details>
-</ul>
 
 <img src="{{ishitagopal.github.io}}/images/follower_net.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
 
+</details>
+</ul>
 
 
 <h2> Working Papers </h2>
