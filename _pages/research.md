@@ -41,7 +41,7 @@ Networks among legislators shape politics and policymaking within legislative in
   
 </details>
 </ul>
-<h5>Follower, Mentions and Retweets Network amongst state legislators</h5>
+<h5>Fig: Follower, Mentions and Retweets Network amongst state legislators</h5>
 <img src="{{ishitagopal.github.io}}/images/follower_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
 <img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
 <img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
@@ -64,7 +64,7 @@ In this registered report we describe a field experiment that has been designed 
 </details>
 </ul>
 
-<h5>Bipartite network between legislators and enviroment focussed bills</h5>
+<h5>Fig: Bipartite network between legislators and enviroment focussed bills</h5>
 <p align="center">
 <img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="width: 50%; margin-right: 0.1em; margin-bottom: 0.5em">
     </p>
