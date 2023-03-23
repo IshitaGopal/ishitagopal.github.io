@@ -31,7 +31,7 @@ Published in [*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/do
 <h2> Under Review </h2>
 
 **Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. “Modeling State Legislator Networks on Twitter”  
-Presentation available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/PolNet_2021.pdf)*
+Presentation give at Political Conference available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/PolNet_2021.pdf)*
 
 <ul>
 <details>
@@ -51,7 +51,7 @@ Networks among legislators shape politics and policymaking within legislative in
 <h2> Working Papers </h2>
 
 **Ishita Gopal** and Bruce Desmarias. “Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network”  
-Presentation given at Political Networks available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/PolNet_2021.pdf)*
+Presentation available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/PolNet_2021.pdf)*
 
 <ul>
 <details>
