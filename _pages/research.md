@@ -62,7 +62,9 @@ In this registered report we describe a field experiment that has been designed 
 </ul>
 
 
-<img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="float: left; width: 50%; margin-right: 1em; margin-bottom: 0.5em;">
+<p align="center">
+    <img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="float: left; width: 50%; margin-right: 1em; margin-bottom: 0.5em;">
+</p>
 
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
