@@ -1,5 +1,6 @@
 ---
 layout: blog
-title: Blog Posts
+title: Tutorials
+permalink: /tutorials/
 subtitle: This is what keeps my mind busy
 ---
