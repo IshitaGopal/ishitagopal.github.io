@@ -1,5 +1,5 @@
 ---
-title: 'Collecting messages from Telegram using Telegram's API and Python'
+title: 'Blog Post number 2'
 date: 2013-08-14
 permalink: /posts/tutorial/
 tags:
