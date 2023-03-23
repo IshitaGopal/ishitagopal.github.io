@@ -1,3 +1,13 @@
+---
+title: 'Collecting messages from Telegram using Telegram's API and Python'
+date: 2013-08-14
+permalink: /posts/tutorial/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 # Collecting messages from Telegram using Telegram's API and Python
 
 ## Set up 
