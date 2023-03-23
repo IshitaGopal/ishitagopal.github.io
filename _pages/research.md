@@ -56,14 +56,14 @@ Presented at Political Methodology Conference, 2021. *[here](https://github.com/
 <details>
 <summary> Abstract </summary>
 
-In this registered report we describe a field experiment that has been designed to provide evidence of causal effects underlying the micro-foundations of public policy diffusion across the U.S. states. The aim of our study is to test how and if cross-state legislator level connections serve as a vector through which support for policies diffuses. We measure a novel cross-state legislative network dataset in which two legislators are connected through co-signing environmental policy statements organized by the National Caucus of Environmental Legislators. We propose to survey legislators' support for policies proposed in other states, and randomize the degree of information included in the policy description regarding support by other legislators in the network. Our study is situated to contribute to our understanding of state legislative politics, policy networks, and interest group politics. We focus on environmental policy due to the inherently nationalized consequences of state and local policy innovations.s      
+In this registered report we describe a field experiment that has been designed to provide evidence of causal effects underlying the micro-foundations of public policy diffusion across the U.S. states. The aim of our study is to test how and if cross-state legislator level connections serve as a vector through which support for policies diffuses. We measure a novel cross-state legislative network dataset in which two legislators are connected through co-signing environmental policy statements organized by the National Caucus of Environmental Legislators. We propose to survey legislators' support for policies proposed in other states, and randomize the degree of information included in the policy description regarding support by other legislators in the network. Our study is situated to contribute to our understanding of state legislative politics, policy networks, and interest group politics. We focus on environmental policy due to the inherently nationalized consequences of state and local policy innovations.      
   
 </details>
 </ul>
 
 
 <p align="center">
-    <img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="float: left; width: 50%; margin-right: 1em; margin-bottom: 0.5em;">
+    <img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="float: left; width: 50%; margin-right: 10em; margin-bottom: 0.5em;">
 </p>
 
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
