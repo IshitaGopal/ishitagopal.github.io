@@ -27,11 +27,6 @@ Taegyoon Kim, Nitheesha Nakka, <span style="color:SteelBlue">Ishita Gopal</span>
 <img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="display: block; margin: auto;" />
 <img src="{{ishitagopal.github.io}}/images/rt_net.png" style="display: block; margin: auto;" />
 
-<img src="../pages/research_img/follower_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="../pages/research_img/mentions_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="../pages/research_img/rt_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-
-
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
