@@ -30,7 +30,7 @@ Published in [*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/do
 
 <h2> Under Review </h2>
 
-<span style="color:SteelBlue">Ishita Gopal</span>, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. 2020. “Modeling State Legislator Networks on Twitter” <br/> 
+**Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. 2020. “Modeling State Legislator Networks on Twitter” <br/> 
 
 <ul>
 <details>
