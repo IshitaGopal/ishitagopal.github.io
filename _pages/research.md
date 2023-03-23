@@ -38,7 +38,7 @@ Taegyoon Kim, Nitheesha Nakka, <span style="color:SteelBlue">Ishita Gopal</span>
 
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=en&user=7QhrrSYAAAAJ)}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
