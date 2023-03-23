@@ -64,7 +64,7 @@ In this registered report we describe a field experiment that has been designed 
 </details>
 </ul>
 
-
+<p></p>
 
 
 **Ishita Gopal**. “Targeting and the Timing of Online Censorship: The Case of Venezuela.” <br/> 
