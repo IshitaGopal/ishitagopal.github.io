@@ -52,9 +52,6 @@ Networks among legislators shape politics and policymaking within legislative in
 **Ishita Gopal** and Bruce Desmarias. “Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network”  
 Presented at the Political Methodology Conference, 2021. Available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/PolNet_2021.pdf)*
 
-<img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-
-
 <ul>
 <details>
 <summary> Abstract </summary>
@@ -64,7 +61,10 @@ In this registered report we describe a field experiment that has been designed 
 </details>
 </ul>
 
-<p></p>
+<img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 
 
 **Ishita Gopal**. “Targeting and the Timing of Online Censorship: The Case of Venezuela.” <br/> 
