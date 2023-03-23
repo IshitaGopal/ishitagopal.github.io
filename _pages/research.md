@@ -44,9 +44,9 @@ Networks among legislators shape politics and policymaking within legislative in
 <img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
 <img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 *Follower, Mentions and Retweets Network amongst state legislators*
 
-<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 <h2> Working Papers </h2>
 
@@ -66,10 +66,9 @@ In this registered report we describe a field experiment that has been designed 
 <p align="center">
 <img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="width: 50%; margin-right: 0.1em; margin-bottom: 0.5em">
     </p>
-*Bipartite network between legislators and enviroment focussed bills*
-
 
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+*Bipartite network between legislators and enviroment focussed bills*
 
 
 **Ishita Gopal**. “Targeting and the Timing of Online Censorship: The Case of Venezuela.”
