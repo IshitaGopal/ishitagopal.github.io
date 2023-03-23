@@ -46,6 +46,12 @@ Networks among legislators shape politics and policymaking within legislative in
 <img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="display: block; margin: auto;" />
 <img src="{{ishitagopal.github.io}}/images/rt_net.png" style="display: block; margin: auto;" />
 
+
+<img src="{{ishitagopal.github.io}}/images/follower_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+
+
 <h2> Working Papers </h2>
 <span style="color:SteelBlue">Ishita Gopal</span>. 2021 “Targeting and the Timing of Online Censorship: The Case of Venezuela.” <br/> 
 [\[Slides\]]({{ BASE_PATH}}/pages/ppt/PolMeth_2020.pdf)  
