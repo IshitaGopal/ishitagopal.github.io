@@ -46,7 +46,7 @@ Networks among legislators shape politics and policymaking within legislative in
 <img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
 
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
-<p align="center"> <h5>Fig: Follower, Mentions and Retweets Network amongst state legislators</h5> </p>
+<p style="text-align: center;"> <h5>Fig: Follower, Mentions and Retweets Network amongst state legislators</h5> </p>
 
 
 <h2> Working Papers </h2>
