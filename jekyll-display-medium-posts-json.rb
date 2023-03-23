@@ -9,7 +9,7 @@ module Jekyll
 def generate(site)
       jekyll_coll = Jekyll::Collection.new(site, 'medium_posts_json')
       site.collections['medium_posts_json'] = jekyll_coll
-      uri = URI("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@erap129")
+      uri = URI("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@ishitagopal")
       http = Net::HTTP.new(uri.host, uri.port)
       http.use_ssl = true
       request = Net::HTTP::Get.new(uri)
