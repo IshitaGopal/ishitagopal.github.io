@@ -6,8 +6,8 @@ author_profile: true
 ---
 <h2> Published </h2>
 
-Kevin Munger, **Ishita Gopal**, Jonathan Nagler, and Joshua Tucker. 2020. “Accessibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?” 
-Published in [*Research & Politics*](https://journals.sagepub.com/doi/full/10.1177/20531680211016968)
+Kevin Munger, **Ishita Gopal**, Jonathan Nagler, and Joshua Tucker. “Accessibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?” 
+Published in [*Research & Politics*](https://journals.sagepub.com/doi/full/10.1177/20531680211016968), 2021
 
 <ul>
     <Details>
@@ -18,8 +18,8 @@ Published in [*Research & Politics*](https://journals.sagepub.com/doi/full/10.11
     </ul>	
 
 
-Taegyoon Kim, Nitheesha Nakka, **Ishita Gopal**, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. 2021. “Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators” (Legislative Studies Quaterly) <br/> 
-Published in [*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12367)
+Taegyoon Kim, Nitheesha Nakka, **Ishita Gopal**, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. “Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators”  
+Published in [*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12367), 2021
 
 <ul>
     <details>
