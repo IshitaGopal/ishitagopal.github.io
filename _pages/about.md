@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Social/Data Scientist completing a PhD under the supervision of Dr. [Bruce Desmarais](http://brucedesmarais.com/). I work in the intersection of technology and politics. My research uses large scale digital data from social platforms (Telegram, Twitter & Facebook) to model political communication and its implications for internet censorship, surveillance, and repression. I also work on topics around public policy diffusion. My work uses machine learning and statisticas and I have significant experience in the applications of NLP, network analysis and experimental methods. My research is partly funded by Princeton and my work has been published in peer reviewed journals.
+I am a data/social scientist completing a PhD in Social Data Analytics & Political Science under the supervision of Dr. [Bruce Desmarais](http://brucedesmarais.com/). I work in the intersection of technology and politics. My research uses large scale digital data from social platforms (Telegram, Twitter & Facebook) to model political communication and its implications for internet censorship, surveillance, and repression. I also work on topics around public policy diffusion. My work uses machine learning and statisticas and I have significant experience in the applications of NLP, network analysis and causal inference. My research is partly funded by Princeton and my work has been published in peer reviewed journals.
 
 Last summer, I was a Data Science intern at [Aware](https://www.awarehq.com/) where I leveraged my skills and built machine learning models to detect sensitive data shared in digital workplaces. Before starting my PhD, I also worked as an economist in an Energy & Environment thinktank. 
 
