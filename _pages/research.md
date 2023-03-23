@@ -20,10 +20,13 @@ Published in [*Research & Politics*](https://journals.sagepub.com/doi/full/10.11
 
 Taegyoon Kim, Nitheesha Nakka, **Ishita Gopal**, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. 2021. “Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators” (Legislative Studies Quaterly) <br/> 
 Published in [*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12367)
-<details>
-<summary> Abstract </summary>
-  Subnational governments in the United States have taken the lead on many aspects of the response to the COVID-19 pandemic. Variation in government activity across states offers the opportunity to analyze responses in comparable settings. We study a common and informative activity among state officials—state legislators’ attention to the pandemic on Twitter. We find that legislators’ attention to the pandemic strongly correlates with the number of cases in the legislator’s state, the national count of new deaths, and the number of pandemic-related public policies passed within the legislator’s state. Furthermore, we find that the degree of responsiveness to pandemic indicators differs significantly across political parties, with Republicans exhibiting weaker responses, on average. Lastly, we find significant differences in the content of tweets about the pandemic by Democratic and Republican legislators, with Democrats focused on health indicators and impacts, and Republicans focused on business impacts and opening the economy.
-</details>
+
+<ul>
+    <details>
+    <summary> Abstract </summary>
+      Subnational governments in the United States have taken the lead on many aspects of the response to the COVID-19 pandemic. Variation in government activity across states offers the opportunity to analyze responses in comparable settings. We study a common and informative activity among state officials—state legislators’ attention to the pandemic on Twitter. We find that legislators’ attention to the pandemic strongly correlates with the number of cases in the legislator’s state, the national count of new deaths, and the number of pandemic-related public policies passed within the legislator’s state. Furthermore, we find that the degree of responsiveness to pandemic indicators differs significantly across political parties, with Republicans exhibiting weaker responses, on average. Lastly, we find significant differences in the content of tweets about the pandemic by Democratic and Republican legislators, with Democrats focused on health indicators and impacts, and Republicans focused on business impacts and opening the economy.
+    </details>
+</ul>
 
 <h2> Under Review </h2>
 
