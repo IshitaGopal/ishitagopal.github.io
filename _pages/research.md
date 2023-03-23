@@ -64,12 +64,12 @@ In this registered report we describe a field experiment that has been designed 
 </details>
 </ul>
 
-<h5>Fig: Bipartite network between legislators and enviroment focussed bills</h5>
 <p align="center">
 <img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="width: 50%; margin-right: 0.1em; margin-bottom: 0.5em">
     </p>
 
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+<h5>Fig: Bipartite network between legislators and enviroment focussed bills</h5>
 
 
 **Ishita Gopal**. “Targeting and the Timing of Online Censorship: The Case of Venezuela.”
