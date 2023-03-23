@@ -62,7 +62,7 @@ In this registered report we describe a field experiment that has been designed 
 </ul>
 
 <p align="center">
-<img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="width: 40%; margin-right: 0.1em; margin-bottom: 0.5em;">
+<img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="width: 50%; margin-right: 0.1em; margin-bottom: 0.5em;title="Co-signing network between legislators and enviromentally focussed letters">
     </p>
 
 
