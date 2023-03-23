@@ -66,6 +66,6 @@ In this registered report we describe a field experiment that has been designed 
 <img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
 
 
-**Ishita Gopal**. “Targeting and the Timing of Online Censorship: The Case of Venezuela.” <br/> 
+**Ishita Gopal**. “Targeting and the Timing of Online Censorship: The Case of Venezuela.”
 
 
