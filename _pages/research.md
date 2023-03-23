@@ -30,7 +30,8 @@ Published in [*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/do
 
 <h2> Under Review </h2>
 
-**Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. 2020. “Modeling State Legislator Networks on Twitter” <br/> 
+**Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. “Modeling State Legislator Networks on Twitter” <br/> 
+[\[Slides\]]({{ BASE_PATH}}/files/ppt/PolNet_2021.pdf) 
 
 <ul>
 <details>
@@ -41,9 +42,6 @@ Networks among legislators shape politics and policymaking within legislative in
 </details>
 </ul>
 
-[\[Slides\]]({{ BASE_PATH}}/files/ppt/PolNet_2021.pdf) 
-
-
 <img src="{{ishitagopal.github.io}}/images/follower_net.png" style="display: block; margin: auto;" />
 <img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="display: block; margin: auto;" />
 <img src="{{ishitagopal.github.io}}/images/rt_net.png" style="display: block; margin: auto;" />
@@ -52,12 +50,3 @@ Networks among legislators shape politics and policymaking within legislative in
 <span style="color:SteelBlue">Ishita Gopal</span>. 2021 “Targeting and the Timing of Online Censorship: The Case of Venezuela.” <br/> 
 [\[Slides\]]({{ BASE_PATH}}/pages/ppt/PolMeth_2020.pdf)  
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=en&user=7QhrrSYAAAAJ)}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
