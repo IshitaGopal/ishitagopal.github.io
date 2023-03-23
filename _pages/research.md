@@ -42,17 +42,29 @@ Networks among legislators shape politics and policymaking within legislative in
 </details>
 </ul>
 
-<img src="{{ishitagopal.github.io}}/images/follower_net.png" style="display: block; margin: auto;" />
-<img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="display: block; margin: auto;" />
-<img src="{{ishitagopal.github.io}}/images/rt_net.png" style="display: block; margin: auto;" />
-
-
 <img src="{{ishitagopal.github.io}}/images/follower_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 
 
+
 <h2> Working Papers </h2>
+
+**Ishita Gopal** and Bruce Desmarias. “Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network”  
+Presentation available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/PolNet_2021.pdf)*
+
+<ul>
+<details>
+<summary> Abstract </summary>
+
+In this registered report we describe a field experiment that has been designed to provide evidence of causal effects underlying the micro-foundations of public policy diffusion across the U.S. states. The aim of our study is to test how and if cross-state legislator level connections serve as a vector through which support for policies diffuses. We measure a novel cross-state legislative network dataset in which two legislators are connected through co-signing environmental policy statements organized by the National Caucus of Environmental Legislators. We propose to survey legislators' support for policies proposed in other states, and randomize the degree of information included in the policy description regarding support by other legislators in the network. Our study is situated to contribute to our understanding of state legislative politics, policy networks, and interest group politics. We focus on environmental policy due to the inherently nationalized consequences of state and local policy innovations.      
+  
+</details>
+</ul>
+
+
+
+
 <span style="color:SteelBlue">Ishita Gopal</span>. 2021 “Targeting and the Timing of Online Censorship: The Case of Venezuela.” <br/> 
 [\[Slides\]]({{ BASE_PATH}}/pages/ppt/PolMeth_2020.pdf)  
 
