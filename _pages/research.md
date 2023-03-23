@@ -19,8 +19,17 @@ Taegyoon Kim, Nitheesha Nakka, <span style="color:SteelBlue">Ishita Gopal</span>
 
 <span style="color:SteelBlue">Ishita Gopal</span>, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. 2020. “Modeling State Legislator Networks on Twitter” <br/> 
 
+<details>
+<summary> Abstract </summary>
+
+
+
 <i>Abstract</i>: A lot of attention has been paid to studying the online activity of the members of the United States congress. This scrutiny has not been extended to state legislators. Very few studies exist which catalogue why state legislators connect and communicate with one another online in the ways they do. Inspired by this question and building on studies which have analysed online communication of members of the national legislatures, this paper aims to systematically analyse state legislator relationships in the online environment. We collect original data for 4000+ legislators and study patterns of connection and communication of state legislators on Twitter. The results from this study will help better understand what motivates tie formation in the online environment and if these patterns of connection conform to or can predict offline relationships. We test the impact of variables such as party affiliation, state, chamber, cohort, race, gender, professionalism and policy area focus in the organisation of these online networks. We look at three main types of networks that can arise due to participation on Twitter - follower, retweets and mentions. We also aggregate the ties to infer dynamics between states.    
-[\[Slides\]]({{ BASE_PATH}}/pages/ppt/PolNet_2021.pdf) 
+  
+</details>
+
+
+[\[Slides\]]({{ BASE_PATH}}/files/ppt/PolNet_2021.pdf) 
 
 
 <img src="{{ishitagopal.github.io}}/images/follower_net.png" style="display: block; margin: auto;" />
