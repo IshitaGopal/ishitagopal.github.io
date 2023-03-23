@@ -41,9 +41,9 @@ Networks among legislators shape politics and policymaking within legislative in
   
 </details>
 </ul>
-<img src="{{ishitagopal.github.io}}/images/follower_net.png" style="float: left; width: 50%; margin-bottom: 0.5em;">
-<img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="float: left; width: 50%; margin-bottom: 0.5em;">
-<img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 50%;margin-bottom: 0.5em;">
+<img src="{{ishitagopal.github.io}}/images/follower_net.png" style="float: left; width: 30%; margin-bottom: 0.5em;">
+<img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="float: left; width: 30%; margin-bottom: 0.5em;">
+<img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 30%;margin-bottom: 0.5em;">
 
 <p></p>
 
