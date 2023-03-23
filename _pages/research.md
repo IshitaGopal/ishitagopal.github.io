@@ -41,9 +41,9 @@ Networks among legislators shape politics and policymaking within legislative in
   
 </details>
 </ul>
-<img src="{{ishitagopal.github.io}}/images/follower_net.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="{{ishitagopal.github.io}}/images/follower_net.png" style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;">
 
 <p></p>
 
@@ -51,6 +51,9 @@ Networks among legislators shape politics and policymaking within legislative in
 
 **Ishita Gopal** and Bruce Desmarias. “Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network”  
 Presentation given at the Political Methodology Conference available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/PolNet_2021.pdf)*
+
+<img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
+
 
 <ul>
 <details>
