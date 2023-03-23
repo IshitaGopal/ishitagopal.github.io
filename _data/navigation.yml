@@ -6,8 +6,5 @@ main:
   - title: "Resume"
     url: /resume/
     
-  - title: "CV"
-    url: /cv/
-    
   - title: "Tutorials"
     url: /year-archive/
