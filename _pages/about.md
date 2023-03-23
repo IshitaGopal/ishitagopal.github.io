@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Social Data Analytics & Political Science and I am advised by Dr. [Bruce Desmarais](http://brucedesmarais.com/). My research  uses computational methods to model political communication and its implications for internet censorship, repression and policy diffusion. My projects utilize large-scale digital data collected from social platforms - like Telegram, Twitter, and Facebook - and machine learning and statistical techniques with particular focus on natural language processing (NLP), network analysis, and causal inference. My research is partially funded by Princeton, and my work has been published in peer-reviewed journals. 
+I am a PhD candidate in Social Data Analytics & Political Science and I am advised by Dr. [Bruce Desmarais](http://brucedesmarais.com/). My research  uses computational methods to model political communication and its implications for internet censorship, repression and policy diffusion. My projects utilize large-scale digital data collected from social platforms - like Telegram, Twitter, and Facebook - and machine learning and statistical techniques, particularly, natural language processing (NLP), network analysis, and causal inference. My research is partially funded by Princeton, and my work has been published in peer-reviewed journals. 
 
 Additionally, I have experience as a Data Science intern at [Aware](https://www.awarehq.com/), where I built machine learning models to detect sensitive data shared in digital workplaces. Prior to starting the PhD, I worked as an economist in an Energy & Environment thinktank.
 
