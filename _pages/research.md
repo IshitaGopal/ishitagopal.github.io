@@ -32,13 +32,14 @@ Published in [*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/do
 
 <span style="color:SteelBlue">Ishita Gopal</span>, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. 2020. “Modeling State Legislator Networks on Twitter” <br/> 
 
+<ul>
 <details>
 <summary> Abstract </summary>
 
-<i>Abstract</i>: A lot of attention has been paid to studying the online activity of the members of the United States congress. This scrutiny has not been extended to state legislators. Very few studies exist which catalogue why state legislators connect and communicate with one another online in the ways they do. Inspired by this question and building on studies which have analysed online communication of members of the national legislatures, this paper aims to systematically analyse state legislator relationships in the online environment. We collect original data for 4000+ legislators and study patterns of connection and communication of state legislators on Twitter. The results from this study will help better understand what motivates tie formation in the online environment and if these patterns of connection conform to or can predict offline relationships. We test the impact of variables such as party affiliation, state, chamber, cohort, race, gender, professionalism and policy area focus in the organisation of these online networks. We look at three main types of networks that can arise due to participation on Twitter - follower, retweets and mentions. We also aggregate the ties to infer dynamics between states.    
+Networks among legislators shape politics and policymaking within legislative institutions. In past work on legislative networks, the ties between legislators have been defined on those who serve in the same legislature or chamber. Online information networks, which have been found to play important roles in legislative communication at the national level, are not bounded by individual legislative bodies.  We collect original data for over four thousand U.S. state legislators and study patterns of connection among them on Twitter.  We look at three types of Twitter networks---follower, retweets, and mentions.  We describe these networks and estimate the relationships between ties and salient attributes of legislators. We find that networks are organized largely along geographic and partisan lines and that identity attributes---namely gender and race---exhibit strong associations with the formation of ties.     
   
 </details>
-
+</ul>
 
 [\[Slides\]]({{ BASE_PATH}}/files/ppt/PolNet_2021.pdf) 
 
