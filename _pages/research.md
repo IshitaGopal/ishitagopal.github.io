@@ -40,7 +40,7 @@ Networks among legislators shape politics and policymaking within legislative in
   
 </details>
 </ul>
-<img src="{{ishitagopal.github.io}}/images/follower_net.png" style="float: left; width: 33%; margin-bottom: 0.5em; title="Networks">
+<img src="{{ishitagopal.github.io}}/images/follower_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;>
 <img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
 <img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
 
@@ -62,7 +62,7 @@ In this registered report we describe a field experiment that has been designed 
 </ul>
 
 <p align="center">
-<img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="width: 50%; margin-right: 0.1em; margin-bottom: 0.5em;title="Co-signing network between legislators and enviromentally focussed letters">
+<img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="width: 50%; margin-right: 0.1em; margin-bottom: 0.5em; title="Co-signing network between legislators and enviromentally focussed letters">
     </p>
 
 
