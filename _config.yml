@@ -186,7 +186,6 @@ collections:
     permalink: /:collection/:path/
   medium_posts_json:
     output: true
-    permalink: /:collection/:path/
   
 
 
