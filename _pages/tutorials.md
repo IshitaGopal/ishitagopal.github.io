@@ -5,5 +5,5 @@ permalink: /tutorials/
 subtitle: This is what keeps my mind busy
 ---
 
-- [Collecting messages from Telegram using Telegram’s API and Python](https://medium.com/@ishitagopal/ea49527dfa68)
+-- [Collecting messages from Telegram using Telegram’s API and Python](https://medium.com/@ishitagopal/ea49527dfa68)
 
