@@ -7,7 +7,7 @@ redirect_from:
   - /CV
 ---
 
-<embed src="{{.BASE_PATH }}/files/Gopal_CV.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{.BASE_PATH }}/files/CV_Gopal.pdf" width="600" height="700" type='application/pdf'>
 
 
 Education
