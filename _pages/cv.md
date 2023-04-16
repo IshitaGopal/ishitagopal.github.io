@@ -9,6 +9,8 @@ redirect_from:
 
 <embed src="{{.BASE_PATH }}/files/CV_Gopal.pdf" width="600" height="700" type='application/pdf'>
 
+<!--
+
 
 Education
 ======
@@ -58,3 +60,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
