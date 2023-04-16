@@ -4,7 +4,7 @@ title: "CV"
 permalink: /CV/
 author_profile: true
 redirect_from:
-  - /CV
+  - /cv
 ---
 
 <embed src="{{.BASE_PATH }}/files/CV_Gopal.pdf" width="600" height="700" type='application/pdf'>
