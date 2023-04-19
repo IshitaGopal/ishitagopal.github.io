@@ -12,6 +12,7 @@ Hi there! I am a computational social scientist and data scientist completing my
 
 My academic research leverages large-scale digital data from a variety of social platforms - like Telegram, Twitter, and Facebook - to study online interactions and model it's consequences for on ground repression, public policy diffusion and legislative communication. My research is partially funded by Princeton, and my work has been published in peer-reviewed journals. 
 
+
 Additionally, I have experience as a Data Science intern at [Aware](https://www.awarehq.com/), where I built machine learning models to detect sensitive data shared in digital workplaces. Prior to starting my PhD, I also worked as an economist in an Energy & Environment thinktank.
 
 
