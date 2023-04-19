@@ -10,9 +10,9 @@ redirect_from:
 
 Hi there! I am a computational social scientist and data scientist completing my PhD under the supervision of Dr. [Bruce Desmarais](http://brucedesmarais.com/). I use data science - particularly, natural language processing (NLP), network analysis, and causal inference- to answer questions around digital media use, political communication, and human behavior more broadly.
 
-My academic research leverages large-scale digital data from a variety of social platforms - like Telegram, Twitter, and Facebook - to study online interactions and model their consequence. 
+My academic research leverages large-scale digital data from a variety of social platforms - like Telegram, Twitter, and Facebook - to study online interactions and model it's consequences for on ground repression, public policy diffusion and legislative communication. 
 
-Additionally, I have experience as a Data Science intern at [Aware](https://www.awarehq.com/), where I built machine learning models to detect sensitive data shared in digital workplaces. Prior to starting my PhD, I worked as an economist in an Energy & Environment thinktank.
+Additionally, I have experience as a Data Science intern at [Aware](https://www.awarehq.com/), where I built machine learning models to detect sensitive data shared in digital workplaces. Prior to starting my PhD, I also worked as an economist in an Energy & Environment thinktank.
 
 
 <!--- A data-driven personal website
