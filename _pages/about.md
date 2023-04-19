@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a computational social scientist and data scientist completing my PhD under the supervision of Dr. [Bruce Desmarais](http://brucedesmarais.com/). I use data science - particularly, natural language processing (NLP), network analysis, and causal inference- to answer questions around digital media use, political communication, and human behavior more broadly.
+Hi there! I am a  data scientist and computational social scientist completing my PhD under the supervision of Dr. [Bruce Desmarais](http://brucedesmarais.com/). I use data science - particularly, natural language processing (NLP), network analysis, and causal inference- to answer questions around digital media use, political communication, and human behavior more broadly.
 
 My academic research leverages large-scale digital data from a variety of social platforms - like Telegram, Twitter, and Facebook - to study online interactions and model it's consequences for on ground repression, public policy diffusion and legislative communication. My research is partially funded by Princeton, and my work has been published in peer-reviewed journals. 
 
