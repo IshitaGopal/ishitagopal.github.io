@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Ishita Gopal"
+title: "Hi there! I am a data scientist and computational social scientist completing my PhD at Penn State."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-### Hi there! I am a  data scientist and computational social scientist completing my PhD. 
 
 I use data science to study questions around digital media use, political communication, and human behavior more broadly.
 
