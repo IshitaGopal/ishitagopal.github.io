@@ -12,7 +12,7 @@ redirect_from:
 
 I use data science to answer questions around digital media use, political communication, and human behavior more broadly.
 
-I am advised by Dr. [Bruce Desmarais](http://brucedesmarais.com/). My academic research analyzes human interactions in the digital space and models its impact on internet censorship, repression, and public policy diffusion. I use large scale data from - Telegram, Twitter, and Facebook - and utilize machine learning and statistical techniques such as natural language processing (NLP), network analysis, and causal inference. My research is partially funded by Princeton, and my work has been published in peer-reviewed journals. 
+I am advised by [Prof Bruce Desmarais](http://brucedesmarais.com/). My academic research analyzes human interactions in the digital space and models its impact on internet censorship, repression, and public policy diffusion. I use large scale data from - Telegram, Twitter, and Facebook - and utilize machine learning and statistical techniques such as natural language processing (NLP), network analysis, and causal inference. My research is partially funded by Princeton, and my work has been published in peer-reviewed journals. 
 
 Additionally, I have experience as a Data Science intern at [Aware](https://www.awarehq.com/), where I built machine learning models to detect sensitive data shared in digital workplaces. Prior to starting my PhD, I also worked as an economist in an Energy & Environment thinktank.
 
