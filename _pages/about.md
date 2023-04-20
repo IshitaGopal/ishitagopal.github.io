@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there! I am a data scientist and computational social scientist completing my PhD at Penn State."
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I use data science to study questions around digital media use, political communication, and human behavior more broadly.
+"Hi there! I am a data scientist and computational social scientist completing my PhD and my advisor is [Dr. Bruce Desmarais](http://brucedesmarais.com/)."
 
-I am advised by [Dr. Bruce Desmarais](http://brucedesmarais.com/). My research analyzes human interactions in the digital space and models its impact on internet censorship, repression, and public policy diffusion. I leverage large scale data from - Telegram, Twitter, and Facebook - and utilize machine learning and statistical techniques, particularly, natural language processing (NLP), network analysis, and causal inference for my work. My research is partially funded by Princeton, and my work has been published in peer-reviewed journals. 
+I use data science to answer questions arround digital media use, political communication, and human behavior more boadly. My research analyzes interactions on social media platforms like Telegram, Twitter, and Facebook to understand their impact on internet censorship, repression, and public policy diffusion. I employ machine learning and statistical techniques like natural language processing, network analysis, and causal inference. My work is partially funded by Princeton and has been published in peer-reviewed journals. 
 
-Additionally, I have experience as a Data Science intern at [Aware](https://www.awarehq.com/), where I built machine learning models to detect sensitive data shared in digital workplaces. Prior to starting my PhD, I also worked as an economist in an Energy & Environment thinktank.
+I also have experience as a Data Science intern at Aware, where I developed machine learning models to detect sensitive data in digital workplaces. Before starting my PhD, I worked as an economist in an Energy & Environment thinktank.
+
+
+
+
+
+
 
 
 <!--- A data-driven personal website
