@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am a data scientist and computational social scientist completing my PhD at Penn State. I work in [Dr. Bruce Desmarais's](http://brucedesmarais.com/) lab.
 
-My research uses data science to study human communication and behavior. Specifically, I utilize large-scale data from social platforms to model interactions in digital spaces and their impact on internet censorship, repression, and public policy diffusion. I am experienced in using natural language processing, network analysis, and causal inference. My work has been published in peer-reviewed journals and is partially funded by Princeton. 
+My research uses data science to study human communication and behavior. Specifically, I utilize large-scale data from social platforms to model interactions in digital spaces and their impact on internet censorship, repression, and public policy diffusion. I am experienced in the use of natural language processing, network analysis, and causal inference. My work has been published in peer-reviewed journals and is partially funded by Princeton. 
 
 In addition to academic research, I was a Data Science intern at Aware, where I developed machine learning models to detect sensitive data in digital workplaces. And before starting my PhD, I worked as an economist in an Energy & Environment thinktank.
 
