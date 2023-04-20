@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a data scientist and computational social scientist completing my PhD at Penn State. I am a fellow at the  [Center for Social Data Analytics](https://soda.la.psu.edu/) and my advisor is [Dr. Bruce Desmarais](http://brucedesmarais.com/).
+Hello! I am a data scientist and computational social scientist completing my PhD at Penn State. 
 
 My research uses data science to study human communication and behavior. Specifically, I utilize large-scale data from social platforms to model interactions in digital spaces and their impact on internet censorship, repression, and public policy diffusion. I have expertise in the applications of natural language processing, network analysis, and causal inference. My work has been published in peer-reviewed journals and is partially funded by Princeton. 
 
@@ -18,7 +18,7 @@ In addition to academic research, I was a Data Science intern at [Aware](https:/
 
 <!--- I also enjoy developing instructional materials to help practitioners implement advanced data science methods in their work. -->
 
-
+<!--- I am a fellow at the  [Center for Social Data Analytics](https://soda.la.psu.edu/) and my advisor is [Dr. Bruce Desmarais](http://brucedesmarais.com/). -->
 
 <!--- A data-driven personal website
 ======
