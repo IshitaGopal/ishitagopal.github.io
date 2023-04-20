@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a data scientist and computational social scientist completing my PhD at Penn State. 
+Hello! I am a data scientist and computational social scientist. I am completing my PhD at Penn State and my advisor is [Dr. Bruce Desmarais's](http://brucedesmarais.com/).
 
 My research uses data science to study human communication and behavior. Specifically, I utilize large-scale data from social platforms to model interactions in digital spaces and their impact on internet censorship, repression, and public policy diffusion. I have expertise in the applications of natural language processing, network analysis, and causal inference. My work has been published in peer-reviewed journals and is partially funded by Princeton. 
 
