@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a data scientist and computational social scientist completing my PhD and I am advised by [Dr. Bruce Desmarais](http://brucedesmarais.com/).
+#### Hi there! I am a data scientist and computational social scientist completing my PhD and I am advised by [Dr. Bruce Desmarais](http://brucedesmarais.com/).
 
 I use data science to study human communication and behavior. Specifically, my research uses large scale data from social platforms like Telegram, Twitter, and Facebook to model interactions in digital spaces and their impact on internet censorship, repression, and public policy diffusion. I use machine learning and statistical techniques with a focus on natural language processing, network analysis, and causal inference. My work is partially funded by Princeton and has been published in top peer-reviewed journals. 
 
