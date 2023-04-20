@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! I am a data scientist and computational social scientist completing my PhD. My advisor is [Dr. Bruce Desmarais](http://brucedesmarais.com/).
 
-I use data science to answer questions arround digital media use, political communication, and human behavior. My research uses large scale data to analyze interactions on social media platforms like Telegram, Twitter, and Facebook to understand their impact on internet censorship, repression, and public policy diffusion. I employ machine learning and statistical techniques like natural language processing, network analysis, and causal inference. My work is partially funded by Princeton and has been published in peer-reviewed journals. 
+I use data science to answer questions arround digital media use, political communication, and human behavior. My research uses large scale data to analyze interactions on social media platforms like Telegram, Twitter, and Facebook and studies their impact on internet censorship, repression, and public policy diffusion. I employ machine learning and statistical techniques like natural language processing, network analysis, and causal inference. My work is partially funded by Princeton and has been published in peer-reviewed journals. 
 
 I also have experience as a Data Science intern at Aware, where I developed machine learning models to detect sensitive data in digital workplaces. Before starting my PhD, I worked as an economist in an Energy & Environment thinktank.
 
