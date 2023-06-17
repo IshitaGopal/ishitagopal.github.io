@@ -32,6 +32,7 @@ Published in [*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/do
 
 **Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. “The National Network of U.S. State Legislators on
 Twitter”  
+R&R in [*Political Science Research Methods*]
 Presented at Political Networks Conference, 2021. Available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/PolNet_2021.pdf)*
 <ul>
 <details>
