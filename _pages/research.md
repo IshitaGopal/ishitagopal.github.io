@@ -29,7 +29,7 @@ Published in [*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/do
 </ul>
 
 **Ishita Gopal** and Bruce Desmarias. “The network science of public policy diffusion”  
-Published in [*Oxford Handbook of Engaged Methodological Pluralism*]([https://onlinelibrary.wiley.com/doi/10.1111/lsq.12367](https://doi.org/10.1093/oxfordhb/9780192868282.013.42,), 2023
+Published in [*Oxford Handbook of Engaged Methodological Pluralism*](https://doi.org/10.1093/oxfordhb/9780192868282.013.42,), 2023
 
 <ul>
 <details>
