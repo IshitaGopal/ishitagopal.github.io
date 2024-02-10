@@ -28,11 +28,24 @@ Published in [*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/do
     </details>
 </ul>
 
+**Ishita Gopal** and Bruce Desmarias. “The network science of public policy diffusion”  
+Published in [*Oxford Handbook of Engaged Methodological Pluralism*]([https://onlinelibrary.wiley.com/doi/10.1111/lsq.12367](https://doi.org/10.1093/oxfordhb/9780192868282.013.42,), 2023
+
+<ul>
+<details>
+<summary> Abstract </summary>
+
+For over half a century, rigorous empirical analysis of the patterns according to which policies spread across governments has lead to the substantial accumulation of knowledge regarding the attributes of governments and policies that predict the spread of policy. Recently, a more thorough integration of policy diffusion research with relational and network approaches to analysis has led to insights regarding the pathways that connect governments and facilitate the diffusion of policies. In this chapter we review recent developments regarding network approaches to policy diffusion research, and unify these findings and ideas as the, ``network science of public policy diffusion.'' We also offer guidance regarding directions in which the study of policy diffusion research can be advanced through network scientific approaches. Specifically, we suggest that researchers look to the policy networks literature for theoretical innovations, and that the adoption of multilayer network analysis methods would facilitate substantial advancements in the empirical analysis of the systems determinants of public policy diffusion.
+
+</details>
+</ul>
+
+
 <h2> Under Review </h2>
 
 **Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. “The National Network of U.S. State Legislators on
 Twitter”  
-Revise & Resubmit at *Political Science Research Methods*
+Conditionally Accepted at *Political Science Research Methods*
 
 Presented at Political Networks Conference, 2021. Available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/PolNet_2021.pdf)*
 <ul>
@@ -51,16 +64,7 @@ Networks among legislators shape politics and policymaking within legislative in
 <p style="text-align: center;"> <h5>Fig: Follower, Mentions and Retweets Network amongst state legislators</h5> </p>
 
 
-**Ishita Gopal** and Bruce Desmarias. “The network science of public policy diffusion”  
 
-<ul>
-<details>
-<summary> Abstract </summary>
-
-For over half a century, rigorous empirical analysis of the patterns according to which policies spread across governments has lead to the substantial accumulation of knowledge regarding the attributes of governments and policies that predict the spread of policy. Recently, a more thorough integration of policy diffusion research with relational and network approaches to analysis has led to insights regarding the pathways that connect governments and facilitate the diffusion of policies. In this chapter we review recent developments regarding network approaches to policy diffusion research, and unify these findings and ideas as the, ``network science of public policy diffusion.'' We also offer guidance regarding directions in which the study of policy diffusion research can be advanced through network scientific approaches. Specifically, we suggest that researchers look to the policy networks literature for theoretical innovations, and that the adoption of multilayer network analysis methods would facilitate substantial advancements in the empirical analysis of the systems determinants of public policy diffusion.
-
-</details>
-</ul>
 
 
 Presented at the American Political Science Association, 2021. Available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/APSA_2021.pdf)*
