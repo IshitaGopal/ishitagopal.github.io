@@ -47,7 +47,6 @@ For over half a century, rigorous empirical analysis of the patterns according t
 Twitter”  
 Conditionally Accepted at *Political Science Research Methods*
 
-Presented at Political Networks Conference, 2021. Available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/PolNet_2021.pdf)*
 <ul>
 <details>
 <summary> Abstract </summary>
@@ -67,7 +66,7 @@ Networks among legislators shape politics and policymaking within legislative in
 <h2> Working Papers </h2>
 
 **Ishita Gopal** and Bruce Desmarias. “Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network”  
-OSF file. *[here](https://osf.io/hb6mq)*
+OSF *[here](https://osf.io/hb6mq)*
 
 
 <ul>
