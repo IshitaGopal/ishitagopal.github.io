@@ -64,17 +64,10 @@ Networks among legislators shape politics and policymaking within legislative in
 <p style="text-align: center;"> <h5>Fig: Follower, Mentions and Retweets Network amongst state legislators</h5> </p>
 
 
-
-
-
-Presented at the American Political Science Association, 2021. Available *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/APSA_2021.pdf)*
-
-
-
 <h2> Working Papers </h2>
 
 **Ishita Gopal** and Bruce Desmarias. “Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network”  
-Presented at Political Methodology Conference, 2021. *[here](https://github.com/IshitaGopal/ishitagopal.github.io/blob/master/files/legis_expt.pdf)*
+OSF file. *[here](https://osf.io/hb6mq)*
 
 
 <ul>
