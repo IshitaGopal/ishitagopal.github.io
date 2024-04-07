@@ -7,11 +7,14 @@ subtitle: This is what keeps my mind busy
 
 &ndash; [Collecting messages from Telegram using Telegram’s API and Python](https://medium.com/@ishitagopal/collecting-messages-from-telegram-using-telegrams-api-and-python-5d7e4a9286b2)
 
-<div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
+<div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/telegramapi_func.png" style="width: 100%;">
 </div>
-<div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
+<div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/telegramapi_nyt.png" style="width: 100%;">
+</div>
+<div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
+    <img src="{{ishitagopal.github.io}}/images/telegramapi_df.png" style="width: 100%;">
 </div>
 
 <div style="clear: both;"></div>
