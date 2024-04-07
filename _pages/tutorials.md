@@ -20,6 +20,12 @@ subtitle: This is what keeps my mind busy
 <div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/textclass_roc.png" style="width: 100%;">
 </div>
+<div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
+    <img src="{{ishitagopal.github.io}}/images/textclass_svm.png" style="width: 100%;">
+</div>
+<div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
+    <img src="{{ishitagopal.github.io}}/images/textclass_roc.png" style="width: 100%;">
+</div>
 
 <div style="clear: both;"></div>
 
