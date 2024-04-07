@@ -40,12 +40,9 @@ For over half a century, rigorous empirical analysis of the patterns according t
 </details>
 </ul>
 
-
-<h2> Under Review </h2>
-
 **Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. “The National Network of U.S. State Legislators on
 Twitter”  
-Conditionally Accepted at *Political Science Research Methods*
+Conditionally Accepted Pending Replication at *Political Science Research Methods*
 
 <ul>
 <details>
