@@ -10,12 +10,6 @@ subtitle: This is what keeps my mind busy
 <div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/telegramapi_func.png" style="width: 100%;">
 </div>
-<div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
-    <img src="{{ishitagopal.github.io}}/images/telegramapi_nyt.png" style="width: 100%;">
-</div>
-<div style="display: inline-block; width: 30%; height: 70%, margin-bottom: 0.5em;">
-    <img src="{{ishitagopal.github.io}}/images/telegramapi_df.png" style="width: 100%;">
-</div>
 
 <div style="clear: both;"></div>
 
