@@ -10,6 +10,9 @@ subtitle: This is what keeps my mind busy
 <div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/telegramapi_func.png" style="width: 100%;">
 </div>
+<div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
+    <img src="{{ishitagopal.github.io}}/images/telegramapi_nyt.png" style="width: 100%;">
+</div>
 
 <div style="clear: both;"></div>
 
@@ -18,10 +21,10 @@ subtitle: This is what keeps my mind busy
 &ndash; [Text Classification in Python](https://github.com/IshitaGopal/TRIADS_workshops/blob/main/Introduction_to_TextAnalysis/TextAnalysis_session_4.ipynb)
 
 <div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
-    <img src="{{ishitagopal.github.io}}/images/textclass_roc.png" style="width: 100%;">
+    <img src="{{ishitagopal.github.io}}/images/textclass_svm.png" style="width: 100%;">
 </div>
 <div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
-    <img src="{{ishitagopal.github.io}}/images/textclass_svm.png" style="width: 100%;">
+    <img src="{{ishitagopal.github.io}}/images/textclass_rf.png" style="width: 100%;">
 </div>
 <div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/textclass_roc.png" style="width: 100%;">
