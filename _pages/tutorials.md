@@ -6,13 +6,16 @@ subtitle: This is what keeps my mind busy
 ---
 
 &ndash; [Collecting messages from Telegram using Telegram’s API and Python](https://medium.com/@ishitagopal/collecting-messages-from-telegram-using-telegrams-api-and-python-5d7e4a9286b2)
-<img src="{{ishitagopal.github.io}}/images/telegramapi_nyt.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
+
+<img src="{{ishitagopal.github.io}}/images/telegramapi_func.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
+
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 
 &ndash; [Text Classification in Python](https://github.com/IshitaGopal/TRIADS_workshops/blob/main/Introduction_to_TextAnalysis/TextAnalysis_session_4.ipynb)
 
 <img src="{{ishitagopal.github.io}}/images/textclass_roc.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
+
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 
