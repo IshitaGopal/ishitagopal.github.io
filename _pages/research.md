@@ -6,29 +6,9 @@ author_profile: true
 ---
 <h2> Published </h2>
 
-<br>**Accessibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?**
-<br>Kevin Munger, **Ishita Gopal**, Jonathan Nagler, and Joshua Tucker.
-<br>[*Research & Politics*](https://journals.sagepub.com/doi/full/10.1177/20531680211016968), 2021
-<ul>
-<details> <summary> Abstract </summary>
-An emerging empirical regularity suggests that older people use and respond to social media very differently than younger people. Older people are the fastest-growing population of Internet and social media users in the US, and this heterogeneity will soon become central to online politics. However, many important experiments in this field have been conducted on online samples that do not contain enough older people to be useful to generalize to the current population of Internet users; this issue is more pronounced for studies that are even a few years old. In this paper, we report the results of replicating two experiments involving social media (specifically, Facebook) conducted on one such sample lacking older users (Amazon’s Mechanical Turk) using a source of online subjects which does contain sufficient variation in subject age. We add a standard battery of questions designed to explicitly measure digital literacy. We find evidence of significant treatment effect heterogeneity in subject age and digital literacy in the replication of one of the two experiments. This result is an example of limitations to generalizability of research conducted on samples where selection is related to treatment effect heterogeneity; specifically, this result indicates that Mechanical Turk should not be used to recruit subjects when researchers suspect treatment effect heterogeneity in age or digital literacy, as we argue should be the case for research on digital media effects. </details>
-</ul>
-
-
-
-Taegyoon Kim, Nitheesha Nakka, **Ishita Gopal**, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. “Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators”  
-Published in [*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12367), 2021
-
-<ul>
-    <details>
-    <summary> Abstract </summary>
-      Subnational governments in the United States have taken the lead on many aspects of the response to the COVID-19 pandemic. Variation in government activity across states offers the opportunity to analyze responses in comparable settings. We study a common and informative activity among state officials—state legislators’ attention to the pandemic on Twitter. We find that legislators’ attention to the pandemic strongly correlates with the number of cases in the legislator’s state, the national count of new deaths, and the number of pandemic-related public policies passed within the legislator’s state. Furthermore, we find that the degree of responsiveness to pandemic indicators differs significantly across political parties, with Republicans exhibiting weaker responses, on average. Lastly, we find significant differences in the content of tweets about the pandemic by Democratic and Republican legislators, with Democrats focused on health indicators and impacts, and Republicans focused on business impacts and opening the economy.
-    </details>
-</ul>
-
-**Ishita Gopal** and Bruce Desmarias. “The network science of public policy diffusion”  
-Published in [*Oxford Handbook of Engaged Methodological Pluralism*](https://academic.oup.com/edited-volume/52557/chapter-abstract/431321051?redirectedFrom=fulltext), 2023
-
+<br>**The network science of public policy diffusion**
+<br>**Ishita Gopal** and Bruce Desmarias.
+<br>[*Oxford Handbook of Engaged Methodological Pluralism*](https://academic.oup.com/edited-volume/52557/chapter-abstract/431321051?redirectedFrom=fulltext), 2023
 <ul>
 <details>
 <summary> Abstract </summary>
@@ -36,6 +16,24 @@ Published in [*Oxford Handbook of Engaged Methodological Pluralism*](https://aca
 For over half a century, rigorous empirical analysis of the patterns according to which policies spread across governments has lead to the substantial accumulation of knowledge regarding the attributes of governments and policies that predict the spread of policy. Recently, a more thorough integration of policy diffusion research with relational and network approaches to analysis has led to insights regarding the pathways that connect governments and facilitate the diffusion of policies. In this chapter we review recent developments regarding network approaches to policy diffusion research, and unify these findings and ideas as the, ``network science of public policy diffusion.'' We also offer guidance regarding directions in which the study of policy diffusion research can be advanced through network scientific approaches. Specifically, we suggest that researchers look to the policy networks literature for theoretical innovations, and that the adoption of multilayer network analysis methods would facilitate substantial advancements in the empirical analysis of the systems determinants of public policy diffusion.
 
 </details>
+</ul>
+
+Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators
+Taegyoon Kim, Nitheesha Nakka, **Ishita Gopal**, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke.
+[*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12367), 2021
+<ul>
+    <details>
+    <summary> Abstract </summary>
+      Subnational governments in the United States have taken the lead on many aspects of the response to the COVID-19 pandemic. Variation in government activity across states offers the opportunity to analyze responses in comparable settings. We study a common and informative activity among state officials—state legislators’ attention to the pandemic on Twitter. We find that legislators’ attention to the pandemic strongly correlates with the number of cases in the legislator’s state, the national count of new deaths, and the number of pandemic-related public policies passed within the legislator’s state. Furthermore, we find that the degree of responsiveness to pandemic indicators differs significantly across political parties, with Republicans exhibiting weaker responses, on average. Lastly, we find significant differences in the content of tweets about the pandemic by Democratic and Republican legislators, with Democrats focused on health indicators and impacts, and Republicans focused on business impacts and opening the economy.
+    </details>
+</ul>
+
+<br>**Accessibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?**
+<br>Kevin Munger, **Ishita Gopal**, Jonathan Nagler, and Joshua Tucker.
+<br>[*Research & Politics*](https://journals.sagepub.com/doi/full/10.1177/20531680211016968), 2021
+<ul>
+<details> <summary> Abstract </summary>
+An emerging empirical regularity suggests that older people use and respond to social media very differently than younger people. Older people are the fastest-growing population of Internet and social media users in the US, and this heterogeneity will soon become central to online politics. However, many important experiments in this field have been conducted on online samples that do not contain enough older people to be useful to generalize to the current population of Internet users; this issue is more pronounced for studies that are even a few years old. In this paper, we report the results of replicating two experiments involving social media (specifically, Facebook) conducted on one such sample lacking older users (Amazon’s Mechanical Turk) using a source of online subjects which does contain sufficient variation in subject age. We add a standard battery of questions designed to explicitly measure digital literacy. We find evidence of significant treatment effect heterogeneity in subject age and digital literacy in the replication of one of the two experiments. This result is an example of limitations to generalizability of research conducted on samples where selection is related to treatment effect heterogeneity; specifically, this result indicates that Mechanical Turk should not be used to recruit subjects when researchers suspect treatment effect heterogeneity in age or digital literacy, as we argue should be the case for research on digital media effects. </details>
 </ul>
 
 **Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. “The National Network of U.S. State Legislators on
