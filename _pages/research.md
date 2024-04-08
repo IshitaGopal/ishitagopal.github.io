@@ -60,8 +60,7 @@ Networks among legislators shape politics and policymaking within legislative in
 
 <br>**Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network**
 <br>**Ishita Gopal** and Bruce Desmarias.  
-<br>*[osf pre registration](https://osf.io/hb6mq)*
-
+<br>[*osf pre registration*](https://osf.io/hb6mq)*
 <ul>
 <details>
 <summary> Abstract </summary>
