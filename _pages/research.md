@@ -18,9 +18,9 @@ For over half a century, rigorous empirical analysis of the patterns according t
 </details>
 </ul>
 
-**Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators**
-Taegyoon Kim, Nitheesha Nakka, **Ishita Gopal**, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke.
-[*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12367), 2021
+<br>**Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators**
+<br>Taegyoon Kim, Nitheesha Nakka, **Ishita Gopal**, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke.
+<br>[*Legislative Studies Quaterly*](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12367), 2021
 <ul>
     <details>
     <summary> Abstract </summary>
@@ -36,9 +36,9 @@ Taegyoon Kim, Nitheesha Nakka, **Ishita Gopal**, Bruce Desmarias, Abigail Mancin
 An emerging empirical regularity suggests that older people use and respond to social media very differently than younger people. Older people are the fastest-growing population of Internet and social media users in the US, and this heterogeneity will soon become central to online politics. However, many important experiments in this field have been conducted on online samples that do not contain enough older people to be useful to generalize to the current population of Internet users; this issue is more pronounced for studies that are even a few years old. In this paper, we report the results of replicating two experiments involving social media (specifically, Facebook) conducted on one such sample lacking older users (Amazon’s Mechanical Turk) using a source of online subjects which does contain sufficient variation in subject age. We add a standard battery of questions designed to explicitly measure digital literacy. We find evidence of significant treatment effect heterogeneity in subject age and digital literacy in the replication of one of the two experiments. This result is an example of limitations to generalizability of research conducted on samples where selection is related to treatment effect heterogeneity; specifically, this result indicates that Mechanical Turk should not be used to recruit subjects when researchers suspect treatment effect heterogeneity in age or digital literacy, as we argue should be the case for research on digital media effects. </details>
 </ul>
 
-**The National Network of U.S. State Legislators on Twitter**
-**Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias.  
-Conditionally Accepted Pending Replication at *Political Science Research Methods*
+<br>**The National Network of U.S. State Legislators on Twitter**
+<br>**Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias.  
+<br>Conditionally Accepted Pending Replication at *Political Science Research Methods*
 
 <ul>
 <details>
@@ -58,9 +58,9 @@ Networks among legislators shape politics and policymaking within legislative in
 
 <h2> Working Papers </h2>
 
-**Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network**
-**Ishita Gopal** and Bruce Desmarias.  
-OSF *[here](https://osf.io/hb6mq)*
+<br>**Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network**
+<br>**Ishita Gopal** and Bruce Desmarias.  
+<br>OSF *[here](https://osf.io/hb6mq)*
 
 <ul>
 <details>
