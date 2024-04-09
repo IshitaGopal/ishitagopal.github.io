@@ -38,7 +38,7 @@ An emerging empirical regularity suggests that older people use and respond to s
 
 <br>**The National Network of U.S. State Legislators on Twitter**
 <br>**Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. 
-<br>[*Political Science Research Methods*]
+<br>*Political Science Research Methods*
 <ul>
 <details> <summary> Abstract </summary>
 Networks among legislators shape politics and policymaking within legislative institutions. In past work on legislative networks, the ties between legislators have been defined on those who serve in the same legislature or chamber. Online information networks, which have been found to play important roles in legislative communication at the national level, are not bounded by individual legislative bodies.  We collect original data for over four thousand U.S. state legislators and study patterns of connection among them on Twitter.  We look at three types of Twitter networks---follower, retweets, and mentions.  We describe these networks and estimate the relationships between ties and salient attributes of legislators. We find that networks are organized largely along geographic and partisan lines and that identity attributes---namely gender and race---exhibit strong associations with the formation of ties. </details>
