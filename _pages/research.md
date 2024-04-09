@@ -37,7 +37,7 @@ An emerging empirical regularity suggests that older people use and respond to s
 </ul>
 
 <br>**Accessibility and Generalizability: Are Digital Media Effects Moderated by Age or Digital Literacy?**
-<br>Kevin Munger, **Ishita Gopal**, Jonathan Nagler, and Joshua Tucker.
+<br>**Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias. 
 <br>[*Research & Politics*](https://journals.sagepub.com/doi/full/10.1177/20531680211016968), 2021
 <ul>
 <details> <summary> Abstract </summary>
@@ -47,7 +47,7 @@ An emerging empirical regularity suggests that older people use and respond to s
 
 
 <br>**The National Network of U.S. State Legislators on Twitter**
-<br>**Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias.  
+<br> 
 <br>Conditionally Accepted Pending Replication at *Political Science Research Methods*
 <ul>
 <details>
