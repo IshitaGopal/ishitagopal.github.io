@@ -39,15 +39,13 @@ An emerging empirical regularity suggests that older people use and respond to s
 <br>**The National Network of U.S. State Legislators on Twitter**
 <br>**Ishita Gopal**, Taegyoon Kim, Nitheesha Nakka and Bruce Desmarias.  
 <br>Conditionally Accepted Pending Replication at *Political Science Research Methods*
-
 <ul>
 <details>
 <summary> Abstract </summary>
-
 Networks among legislators shape politics and policymaking within legislative institutions. In past work on legislative networks, the ties between legislators have been defined on those who serve in the same legislature or chamber. Online information networks, which have been found to play important roles in legislative communication at the national level, are not bounded by individual legislative bodies.  We collect original data for over four thousand U.S. state legislators and study patterns of connection among them on Twitter.  We look at three types of Twitter networks---follower, retweets, and mentions.  We describe these networks and estimate the relationships between ties and salient attributes of legislators. We find that networks are organized largely along geographic and partisan lines and that identity attributes---namely gender and race---exhibit strong associations with the formation of ties.     
-  
 </details>
 </ul>
+
 <img src="{{ishitagopal.github.io}}/images/follower_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
 <img src="{{ishitagopal.github.io}}/images/mentions_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
 <img src="{{ishitagopal.github.io}}/images/rt_net.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
@@ -64,7 +62,6 @@ Networks among legislators shape politics and policymaking within legislative in
 <ul>
 <details>
 <summary> Abstract </summary>
-
 In this registered report we describe a field experiment that has been designed to provide evidence of causal effects underlying the micro-foundations of public policy diffusion across the U.S. states. The aim of our study is to test how and if cross-state legislator level connections serve as a vector through which support for policies diffuses. We measure a novel cross-state legislative network dataset in which two legislators are connected through co-signing environmental policy statements organized by the National Caucus of Environmental Legislators. We propose to survey legislators' support for policies proposed in other states, and randomize the degree of information included in the policy description regarding support by other legislators in the network. Our study is situated to contribute to our understanding of state legislative politics, policy networks, and interest group politics. We focus on environmental policy due to the inherently nationalized consequences of state and local policy innovations.      
   
 </details>
