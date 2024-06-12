@@ -37,11 +37,9 @@ subtitle: This is what keeps my mind busy
 
 &ndash; <a href="../files/network_visualization.html" target="_blank">Creating Network Visualizations Using tidygraph And ggraph</a>
 
-<div style="display: inline-block; width: 50%; margin-bottom: 0.5em;">
+<div style="display: inline-block; width: 40%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/net_tut_party.png" style="width: 100%;">
 </div>
-<div style="display: inline-block; width: 50%; margin-bottom: 0.5em;">
-    <img src="{{ishitagopal.github.io}}/images/net_tut_state.png" style="width: 100%;">
-</div>
+
 
 
