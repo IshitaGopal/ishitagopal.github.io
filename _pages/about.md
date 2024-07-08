@@ -9,11 +9,11 @@ redirect_from:
 
 Hi!
 
-I am a data scientist and computational social scientist.
+I am a data scientist currently working at the [Transdisciplinary Institute in Applied Data Sciences at Washington University in St Louis](https://triads.wustl.edu/).
 
-I use data science to answer questions around human communication and behavior. I focus on the applications of machine learning, causal inference, and network analysis to extract insights from diverse and complex data sources, including text, networks, and, more recently, audio data. I am particularly interested in building tools for practitioners working on real-world problems. My academic research explores the dynamics of political communication on digital platforms, peer effects in political networks, cross state diffusion of public policies and more broadly, the applications of data scinece methods for social research. This work has been published in peer-reviewed journals and was partially funded by Princeton.
+I develop and apply advanced methods in data science to analyze communication dynamics, diffusion of information, political media and behavior on social media platforms. I am particularly interested in developing machine/deep learning models to extract information from 'messy data' in text, audio and network formats. You can find my papers on these topics in the Research section. I also enjoy making tutorials on a these topics. (This work has been published in peer-reviewed journals and was partially funded by Princeton.)
 
-Currently, I am a Postdoctoral fellow at the [Transdisciplinary Institute in Applied Data Sciences at Washington University in St Louis](https://triads.wustl.edu/). I hold a dual title Ph.D. in Social Data Analytics and Political Science from Pennsylvania State University, an M.Sc. in Economics from the Univesity of Warwick and a B.A. in Economics from Miranda House, University of Delhi. During my Ph.D., I was a Data Science intern at [Aware](https://www.awarehq.com/), where I developed machine learning models to detect sensitive data in digital workplaces. Before starting my Ph.D., I worked as an economist at [TERI](https://www.teriin.org/), an Energy & Environment thinktank.
+I hold a dual title Ph.D. in Social Data Analytics and Political Science from Pennsylvania State University, an M.Sc. in Economics from the Univesity of Warwick and a B.A. in Economics from Miranda House, University of Delhi. I was also a Data Science intern at [Aware](https://www.awarehq.com/), where I developed machine learning models to detect sensitive data in digital workplaces. Before starting my Ph.D., I worked as an economist at [TERI](https://www.teriin.org/), an Energy & Environment think tank.
 
 
 <!---
