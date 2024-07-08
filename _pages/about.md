@@ -11,7 +11,7 @@ Hi!
 
 I am a data scientist currently working at the [Transdisciplinary Institute in Applied Data Sciences at Washington University in St Louis](https://triads.wustl.edu/). I develop and employ computational methods - NLP, machine and deep learning models, network analysis and experiments - to analyze communication dynamics, information diffusion, political media and behavior on social media platforms. I enjoy working on the applications of data science and am currently building deep learning models to identify attack advertising on YouTube. My work has been published in peer-reviewed journals and I also create tutorials on a variety of data science topics. 
 
-I completed my **PhD** in Social Data Analytics and Political Science from Pennsylvania State University, an **MSc** in Economics from the Univesity of Warwick and a **BA** in Economics from Miranda House, University of Delhi. I was also a Data Science intern at [Aware](https://www.awarehq.com/). Before getting my PhD, I worked as an economist at [TERI](https://www.teriin.org/), an Energy & Environment think tank.
+I completed my PhD in Social Data Analytics and Political Science from Pennsylvania State University, an MSc in Economics from the Univesity of Warwick and a BA in Economics from Miranda House, University of Delhi. I was also a Data Science intern at [Aware](https://www.awarehq.com/). Before getting my PhD, I worked as an economist at [TERI](https://www.teriin.org/), an Energy & Environment think tank.
 
 
 <!---
