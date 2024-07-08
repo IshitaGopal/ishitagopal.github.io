@@ -7,7 +7,7 @@ subtitle: This is what keeps my mind busy
 
 &ndash; [Collecting messages from Telegram using Telegram’s API and Python](https://medium.com/@ishitagopal/collecting-messages-from-telegram-using-telegrams-api-and-python-5d7e4a9286b2) 
 
-This tutorial illustrates how to use the Telethon library in Python to collect messages from any public channel or group chats on Telegram. It introduces fundamental concepts of concurrent and asynchronous programming, which are required for utilizing the Telethon package effectively. The tutorial also guides on extracting and saving information from the retrieved responses and uses k-means clustering to analyze topics discussed in the posts collected from [NYT](https://telegram.me/nytimes) official Telegram channel.
+This tutorial illustrates how to use the `Telethon` library in Python to collect messages from any public channel or group chats on Telegram. It covers basic concurrent and asynchronous programming, required for utilizing the Telethon package effectively. The tutorial also shows how to extract and saving information from the retrieved responses and employs k-means clustering to analyze topics discussed in the posts collected from the official Telegram channel of the [New York Times](https://telegram.me/nytimes).
 
 <div style="display: inline-block; width: 40%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/telegramapi_func.png" style="width: 100%;">
@@ -18,6 +18,8 @@ This tutorial illustrates how to use the Telethon library in Python to collect m
 <div style="page-break-after: always; visibility: hidden;"> \pagebreak </div>
 
 &ndash; <a href="../files/network_visualization.html" target="_blank">Creating Network Visualizations Using tidygraph And ggraph</a>
+
+This tutorial shows how to use `tidygraph`, and `ggraph` libraries in R to create informative and 'pretty' network visualizations. I visualize the Twitter follower-followee connections among 4000+ state legislators in the US, comprising ~160,000 ties. 
 
 <div style="display: inline-block; width: 40%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/net_tut_party.png" style="width: 100%;">
