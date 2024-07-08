@@ -5,9 +5,10 @@ permalink: /tutorials/
 subtitle: This is what keeps my mind busy
 ---
 
-&ndash; [Collecting messages from Telegram using Telegram’s API and Python](https://medium.com/@ishitagopal/collecting-messages-from-telegram-using-telegrams-api-and-python-5d7e4a9286b2) : : This tutorial illustrates how to use the Telethon library in Python to collect messages from any public channel or group chats on Telegram. It introduces fundamental concepts of concurrent and asynchronous programming, which are required for utilizing the Telethon package effectively. The tutorial also guides on extracting and saving information from the retrieved responses and uses k-means clustering to analyze topics discussed in the posts collected from [NYT](https://telegram.me/nytimes) officail Telegram channel.
+&ndash; [Collecting messages from Telegram using Telegram’s API and Python](https://medium.com/@ishitagopal/collecting-messages-from-telegram-using-telegrams-api-and-python-5d7e4a9286b2) 
+This tutorial illustrates how to use the Telethon library in Python to collect messages from any public channel or group chats on Telegram. It introduces fundamental concepts of concurrent and asynchronous programming, which are required for utilizing the Telethon package effectively. The tutorial also guides on extracting and saving information from the retrieved responses and uses k-means clustering to analyze topics discussed in the posts collected from [NYT](https://telegram.me/nytimes) officail Telegram channel.
 
-<div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
+<div style="display: inline-block; width: 40%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/telegramapi_func.png" style="width: 100%;">
 </div>
 
