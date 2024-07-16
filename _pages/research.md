@@ -57,23 +57,24 @@ Networks among legislators shape politics and policymaking within legislative in
 <br>**Legislative Support for Environmental Policy Innovation: An Experimental Test for Diffusion through a Cross-State Policy Network**
 <br>**Ishita Gopal** and Bruce Desmarias.  
 <br>[*osf pre registration*](https://osf.io/hb6mq)
+
 <ul>
-<details>
-<summary> Abstract </summary>
-In this registered report we describe a field experiment that has been designed to provide evidence of causal effects underlying the micro-foundations of public policy diffusion across the U.S. states. The aim of our study is to test how and if cross-state legislator level connections serve as a vector through which support for policies diffuses. We measure a novel cross-state legislative network dataset in which two legislators are connected through co-signing environmental policy statements organized by the National Caucus of Environmental Legislators. We propose to survey legislators' support for policies proposed in other states, and randomize the degree of information included in the policy description regarding support by other legislators in the network. Our study is situated to contribute to our understanding of state legislative politics, policy networks, and interest group politics. We focus on environmental policy due to the inherently nationalized consequences of state and local policy innovations.      
-  
-</details>
+<details><summary> Abstract </summary>
+In this registered report we describe a field experiment that has been designed to provide evidence of causal effects underlying the micro-foundations of public policy diffusion across the U.S. states. The aim of our study is to test how and if cross-state legislator level connections serve as a vector through which support for policies diffuses. We measure a novel cross-state legislative network dataset in which two legislators are connected through co-signing environmental policy statements organized by the National Caucus of Environmental Legislators. We propose to survey legislators' support for policies proposed in other states, and randomize the degree of information included in the policy description regarding support by other legislators in the network. Our study is situated to contribute to our understanding of state legislative politics, policy networks, and interest group politics. We focus on environmental policy due to the inherently nationalized consequences of state and local policy innovations. </details>
 </ul>
+
 
 <img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 <p style="text-align: left;"> <h5>Fig: Bipartite network between legislators and enviroment focussed bills</h5> </p>
 
+
 <br>**Automated Classification of Political Ads on Google without Text**
 <br> <a href="../files/Audio_classification_PolMeth24_Gopal.pdf" target="_blank">*PolMeth presentation, 2024* </a> 
 <ul>
-<details>
-<summary> Abstract </summary>
+<details> <summary> Abstract </summary>
 <br>This paper tests if we can exclusively use audio features and build language agnostic classification models to identify attack/negative advertising. We use transfer learning and train the Wave2Vec2 model on a dataset of 10000 televised ads shown in the US collected. The audio classifier has an accuracy of 85% in identifying negative ads. We then test how well this model performs out of domain on a dataset of political ads shown on Google in the US. 
 </details>
 </ul>
+
+end
