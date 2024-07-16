@@ -73,13 +73,10 @@ In this registered report we describe a field experiment that has been designed 
 <h5>Fig: Bipartite network between legislators and enviroment focussed bills</h5>
 
 <br>**Automated Classification of Political Ads on Google without Text**
+<br> <a href="../files/Audio_classification_PolMeth24_Gopal.pdf" target="_blank">PolMeth presentation, 2024  </a> 
 <ul>
 <details>
 <summary> Abstract </summary>
-<br>This paper tests if we can exclusively use audio features and build language agnostic classification models to identify attack/negative advertising. We use transfer learning and train the Wave2Vec2 model on a dataset of 10000 televised ads in the US collected by the Weslyan Media Project. The audio classifier has an accuracy of 85% in identifying negative ads. We then test how well this model performs out of domain on a dataset of political ads shown on Google in the US. 
+<br>This paper tests if we can exclusively use audio features and build language agnostic classification models to identify attack/negative advertising. We use transfer learning and train the Wave2Vec2 model on a dataset of 10000 televised ads shown in the US collected. The audio classifier has an accuracy of 85% in identifying negative ads. We then test how well this model performs out of domain on a dataset of political ads shown on Google in the US. 
 </details>
 </ul>
-
-<br> <a href="../files/Audio_classification_PolMeth24_Gopal.pdf" target="_blank">PolMeth 2024 Presentation </a> 
-
-
