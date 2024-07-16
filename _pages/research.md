@@ -66,10 +66,8 @@ In this registered report we describe a field experiment that has been designed 
 </ul>
 
 <img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="float: left; width: 33%; margin-bottom: 0.5em;">
-
-
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
-<h5>Fig: Bipartite network between legislators and enviroment focussed bills</h5>
+<p style="text-align: left;"> <h5>Fig: Bipartite network between legislators and enviroment focussed bills</h5> </p>
 
 <br>**Automated Classification of Political Ads on Google without Text**
 <br> <a href="../files/Audio_classification_PolMeth24_Gopal.pdf" target="_blank">*PolMeth presentation, 2024* </a> 
