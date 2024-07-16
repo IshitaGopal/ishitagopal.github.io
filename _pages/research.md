@@ -73,7 +73,7 @@ In this registered report we describe a field experiment that has been designed 
 <h5>Fig: Bipartite network between legislators and enviroment focussed bills</h5>
 
 <br>**Automated Classification of Political Ads on Google without Text**
-<br> <a href="../files/Audio_classification_PolMeth24_Gopal.pdf" target="_blank">PolMeth presentation, 2024  </a> 
+<br> <a href="../files/Audio_classification_PolMeth24_Gopal.pdf" target="_blank">*PolMeth presentation, 2024* </a> 
 <ul>
 <details>
 <summary> Abstract </summary>
