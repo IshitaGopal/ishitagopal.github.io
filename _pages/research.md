@@ -66,7 +66,6 @@ In this registered report we describe a field experiment that has been designed 
 <div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/bi_partite_env.png" style="width: 100%;">
 </div>
-<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 <p style="text-align: left;"> <h5>Fig: Bipartite network between legislators and enviroment focussed bills</h5> </p>
 
 
@@ -78,4 +77,4 @@ In this registered report we describe a field experiment that has been designed 
 </details>
 </ul>
 
-end
+end2
