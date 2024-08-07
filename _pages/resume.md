@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<embed src="{{.BASE_PATH }}/files/Gopal_Data_Scientist_Resume.pdf" width="600" height="700" type='application/pdf'>
+<object data="{{ site.url }}{{ site.baseurl }}/files/Gopal_Data_Scientist_Resume.pdf" width="1000" height="1000" type="application/pdf"></object>
+
