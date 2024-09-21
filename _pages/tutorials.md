@@ -42,7 +42,8 @@ This tutorial shows how to use `tidygraph`, and `ggraph` libraries in R to creat
 
 <div style="page-break-after: always; visibility: hidden;"> \pagebreak </div>
 
-&ndash; [Zero shot text classification with 90K bill texts (work in progress)](https://colab.research.google.com/drive/1wz0btgzCYdXPzwVcuxCpRFiiJV13u7AZ?usp=sharing)
+&ndash; [Prompting Performance: Utilizing Zero-Shot Learning for Political Ad Classification](https://colab.research.google.com/drive/1wz0btgzCYdXPzwVcuxCpRFiiJV13u7AZ?usp=sharing)
+In this tutorial, we'll explore zero-shot learning to classify political ads. Zero-shot models do not require training data like traditional classification models. The goal of our classification task it to identify three different types of ads: "Attack," which critiques opponents; "Promote," which promotes a candidate; and "Contrast," which highlights differences between candidates or policies attacking one and promoting the other. We’ll learn how to implement zero shot models using the `transformers` library, evaluate model performance, experiment with tailored prompts to enhance performance, and analyze over 10,000 televised political ads for insights into messaging. By the end, you'll have practical skills to leverage zero-shot learning for classification tasks!
 
 &ndash; [Some notes on Computer Assisted Keyword Search](https://fast-zenith-918.notion.site/Some-notes-on-Computer-assisted-keyword-search-9e787f82ae0f43259cf24052a431cb2c)
 
