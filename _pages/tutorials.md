@@ -25,11 +25,15 @@ This tutorial shows how to use `tidygraph`, and `ggraph` libraries in R to creat
     <img src="{{ishitagopal.github.io}}/images/net_tut_party.png" style="width: 100%;">
 </div>
 
-&ndash; [Prompting Performance: Evaluating Zero-Shot Learning for Political Advertisement Classification](https://colab.research.google.com/drive/1wz0btgzCYdXPzwVcuxCpRFiiJV13u7AZ?usp=sharing)
+&ndash; [Evaluating Zero-Shot Learning for Political Advertisement Classification](https://colab.research.google.com/drive/1wz0btgzCYdXPzwVcuxCpRFiiJV13u7AZ?usp=sharing)
 
 In this tutorial, I evaluate the performance of zero-shot learning for classification tasks using Facebook's BART model to identify "Attack" and "Promote" ads. Unlike traditional classification models, zero-shot models do not require any training data. I implement these models with the `transformers` library, experiment with prompts to improve performance and evaluate the model on an expert labeled dataset of 10,000 advertisements. 
 
-<div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
+<div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
+    <img src="{{ishitagopal.github.io}}/images/cm_zero_shot.png" style="width: 100%;">
+</div>
+
+<div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/zero_shot_kde.png" style="width: 100%;">
 </div>
 
