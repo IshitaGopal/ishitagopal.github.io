@@ -33,14 +33,6 @@ In this tutorial, I evaluate the performance of zero-shot learning for classific
     <img src="{{ishitagopal.github.io}}/images/balanced_acc.png" style="width: 100%;">
 </div> 
 
-<div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
-    <img src="{{ishitagopal.github.io}}/images/cm_zero_shot.png" style="width: 100%;">
-</div>
-
-<div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
-    <img src="{{ishitagopal.github.io}}/images/zero_shot_kde.png" style="width: 100%;">
-</div>
-
 &ndash; [Text Classification in Python](https://github.com/IshitaGopal/TRIADS_workshops/blob/main/Introduction_to_TextAnalysis/TextAnalysis_session_4.ipynb)
 
 <div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
