@@ -33,7 +33,7 @@ In this tutorial, I evaluate the performance of zero-shot learning for classific
     <img src="{{ishitagopal.github.io}}/images/balanced_acc.png" style="width: 100%;">
 </div> 
 
-<div style="display: inline-block; width: 25%; margin-bottom: 0.5em;">
+<div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/cm_zero_shot.png" style="width: 100%;">
 </div>
 
