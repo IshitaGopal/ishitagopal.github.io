@@ -33,6 +33,10 @@ In this tutorial, I evaluate the performance of zero-shot learning for classific
     <img src="{{ishitagopal.github.io}}/images/balanced_acc.png" style="width: 100%;">
 </div> 
 
+&ndash; [Zero-shot Text Classification with SetFit](https://colab.research.google.com/drive/1-tO8BRHArDWqZwe5hviqWfzxzyDBbDBs#scrollTo=W-cv1hCioeFe)
+
+Although SetFit is primarily designed for few-shot learning, it can be adapted for situations where no labeled data is available by generating "synthetic examples" that mimic the target classification task. This approach enables training the model on artificially created data. In this post, I evaluate SetFit's performance on an advertisement classification task. I walk through the steps, which involve creating synthetic examples using 20+ templates, training the model, and evaluating the results.
+
 &ndash; [Text Classification in Python](https://github.com/IshitaGopal/TRIADS_workshops/blob/main/Introduction_to_TextAnalysis/TextAnalysis_session_4.ipynb)
 
 <div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
