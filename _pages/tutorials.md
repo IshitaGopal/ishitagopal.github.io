@@ -37,6 +37,17 @@ In this tutorial, I evaluate the performance of zero-shot learning for classific
 
 Although SetFit is primarily designed for few-shot learning, it can be adapted for situations where no labeled data is available by generating "synthetic examples" that mimic the target classification task. This approach enables training the model on artificially created data. In this post, I evaluate SetFit's performance on an advertisement classification task. I walk through the steps, which involve creating synthetic examples using 20+ templates, training the model, and evaluating the results.
 
+&ndash;[Few Shot Text Classification with SetFit](https://colab.research.google.com/drive/1DEX3-CxxoZi-2j6N54sUjF_BNxqk3ICq#scrollTo=n4FhH0b-y2wB)
+In this post, I dove into the world of Few Shot Learning using [SetFit](https://huggingface.co/docs/setfit/en/index) to classify political advertisements into three distinct categories: "promote," "attack," and "contrast." Leveraging the power of the `paraphrase-mpnet-base-v2` sentence embedding model, I fine-tuned the classifier with just 100 samples per class, achieving impressive results. The model demonstrated robust performance, reaching an outstanding balanced accuracy of 85%. While it excelled at identifying "promote" and "attack" ads, it faced challenges with the inherently nuanced "contrast" category. Despite this, the findings highlight the effectiveness of Few Shot Learning in delivering high classification performance even with limited labeled data!
+
+<div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
+    <img src="{{ishitagopal.github.io}}/images/Setfit_fewShot.png" style="width: 100%;">
+</div> 
+
+
+
+
+
 &ndash; [Text Classification in Python](https://github.com/IshitaGopal/TRIADS_workshops/blob/main/Introduction_to_TextAnalysis/TextAnalysis_session_4.ipynb)
 
 <div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
