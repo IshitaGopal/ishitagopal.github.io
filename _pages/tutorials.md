@@ -29,22 +29,20 @@ This tutorial shows how to use `tidygraph`, and `ggraph` libraries in R to creat
 
 In this tutorial, I evaluate the performance of zero-shot learning for classification tasks using Facebook's BART model to identify "Attack" and "Promote" ads. Unlike traditional classification models, zero-shot models do not require any training data. I implement these models with the `transformers` library, experiment with prompts to improve performance and evaluate the model on an expert labeled dataset of 10,000 advertisements. 
 
-<div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
+<div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/balanced_acc.png" style="width: 100%;">
 </div> 
 
-&ndash; [Zero-shot Text Classification with SetFit](https://colab.research.google.com/drive/1-tO8BRHArDWqZwe5hviqWfzxzyDBbDBs#scrollTo=W-cv1hCioeFe)
-
-Although SetFit is primarily designed for few-shot learning, it can be adapted for situations where no labeled data is available by generating "synthetic examples" that mimic the target classification task. This approach enables training the model on artificially created data. In this post, I evaluate SetFit's performance on an advertisement classification task. I walk through the steps, which involve creating synthetic examples using 20+ templates, training the model, and evaluating the results.
-
 &ndash;[Few Shot Text Classification with SetFit](https://colab.research.google.com/drive/1DEX3-CxxoZi-2j6N54sUjF_BNxqk3ICq#scrollTo=n4FhH0b-y2wB)
-In this post, I dove into the world of Few Shot Learning using [SetFit](https://huggingface.co/docs/setfit/en/index) to classify political advertisements into three distinct categories: "promote," "attack," and "contrast." Leveraging the power of the `paraphrase-mpnet-base-v2` sentence embedding model, I fine-tuned the classifier with just 100 samples per class, achieving impressive results. The model demonstrated robust performance, reaching an outstanding balanced accuracy of 85%. While it excelled at identifying "promote" and "attack" ads, it faced challenges with the inherently nuanced "contrast" category. Despite this, the findings highlight the effectiveness of Few Shot Learning in delivering high classification performance even with limited labeled data!
+In this post, I evaluated Few Shot Learning using [SetFit](https://huggingface.co/docs/setfit/en/index) to classify political advertisements into: "promote," "attack," and "contrast" ads. I fine-tuned sentence embedding model and the classifier with just 100 samples per class, achieving an impressive balanced accuracy of 85%. The findings highlight the effectiveness of Few Shot Learning in delivering high classification performance with limited labeled data!
 
-<div style="display: inline-block; width: 30%; margin-bottom: 0.5em;">
+<div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
     <img src="{{ishitagopal.github.io}}/images/Setfit_fewShot.png" style="width: 100%;">
 </div> 
 
 
+&ndash; [Zero-shot Text Classification with SetFit](https://colab.research.google.com/drive/1-tO8BRHArDWqZwe5hviqWfzxzyDBbDBs#scrollTo=W-cv1hCioeFe)
+Although SetFit is primarily designed for few-shot learning, it can be adapted for situations where no labeled data is available by generating "synthetic examples" that mimic the target classification task. This approach enables training the model on artificially created data. In this post, I evaluate SetFit's performance on an advertisement classification task. I walk through the steps, which involve creating synthetic examples using 20+ templates, training the model, and evaluating the results.
 
 
 
