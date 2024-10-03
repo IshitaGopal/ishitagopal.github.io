@@ -33,7 +33,7 @@ In this tutorial, I evaluate the performance of zero-shot learning for classific
     <img src="{{ishitagopal.github.io}}/images/balanced_acc.png" style="width: 100%;">
 </div> 
 
-&ndash;[Few Shot Text Classification with SetFit](https://colab.research.google.com/drive/1DEX3-CxxoZi-2j6N54sUjF_BNxqk3ICq#scrollTo=n4FhH0b-y2wB)
+&ndash; [Few Shot Text Classification with SetFit](https://colab.research.google.com/drive/1DEX3-CxxoZi-2j6N54sUjF_BNxqk3ICq#scrollTo=n4FhH0b-y2wB)
 In this post, I evaluated Few Shot Learning using [SetFit](https://huggingface.co/docs/setfit/en/index) to classify political advertisements into: "promote," "attack," and "contrast" ads. I fine-tuned sentence embedding model and the classifier with just 100 samples per class, achieving an impressive balanced accuracy of 85%. The findings highlight the effectiveness of Few Shot Learning in delivering high classification performance with limited labeled data!
 
 <div style="display: inline-block; width: 33%; margin-bottom: 0.5em;">
